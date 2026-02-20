@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シガツビョウ",
+  "base_artist": "絶海",
+  "createdAt": "2026-02-20T17:26:07.497354Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シガツビョウ",
+      "artist": "絶海",
+      "has_synced": false,
+      "path": "select/pl_01_シガツビョウ_絶海.txt"
+    }
+  ]
+}
